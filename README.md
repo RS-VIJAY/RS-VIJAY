@@ -4,13 +4,12 @@
 
 # 🤓 About Me:
 
-Passionate Fullstack Developer adept at bridging the gap between user-centric front-end design and robust back-end functionality. Proficient in HTML, CSS, JavaScript for crafting engaging interfaces, and experienced in backend technologies like Spring boot. A collaborative team player who thrives in diverse environments, eager to learn and contribute innovative ideas. Committed to staying updated with industry trends, I bring determination, curiosity, and a drive to deliver impactful solutions to dynamic Fullstack projects.
-👯 I’m looking to collaborate on: Open-source projects in the field of web development.<br>
+Passionate Fullstack Developer adept at bridging the gap between user-centric front-end design and robust back-end functionality. Proficient in HTML, CSS, JavaScript for crafting engaging interfaces, and experienced in backend technologies like Spring boot. A collaborative team player who thrives in diverse environments, eager to learn and contribute innovative ideas. Committed to staying updated with industry trends, I bring determination, curiosity, and a drive to deliver impactful solutions to dynamic Fullstack projects.<br>
+👯 I’m looking to collaborate on: ***Open-source projects in the field of web development.***<br>
 
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rs__vj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-r--s) 
----
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rs__vj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-r--s) <br><br>
 
 
 #  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> Tech Stack:
