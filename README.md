@@ -11,7 +11,6 @@ Passionate Fullstack Developer adept at bridging the gap between user-centric fr
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rs__vj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-r--s) 
 ---
-[![](https://visitcount.itsvg.in/api?id=prakash-aathi&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
 #  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> Tech Stack:
