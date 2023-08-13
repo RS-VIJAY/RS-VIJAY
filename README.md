@@ -3,7 +3,7 @@
 
 # 🏄‍♂️ About Me
 
-Passionate Fullstack Developer adept at bridging the gap between user-centric front-end design and robust back-end functionality. Proficient in HTML, CSS, JavaScript for crafting engaging interfaces, and experienced in backend technologies like Spring boot. A collaborative team player who thrives in diverse environments, eager to learn and contribute innovative ideas. Committed to staying updated with industry trends, I bring determination, curiosity, and a drive to deliver impactful solutions to dynamic Fullstack projects.<br>
+Passionate Fullstack Developer adept at bridging the gap between user-centric front-end design and robust back-end functionality. Proficient in HTML, CSS, JavaScript for crafting engaging interfaces, and experienced in backend technologies like Spring boot. A collaborative team player who thrives in diverse environments, eager to learn and contribute innovative ideas. Committed to staying updated with industry trends. I bring determination, curiosity, and a drive to deliver impactful solutions to dynamic Fullstack projects.<br>
 👯 I’m looking to collaborate on: ***Open-source projects in the field of web development.***<br>
 
 
